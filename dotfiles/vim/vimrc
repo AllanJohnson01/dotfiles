@@ -25,6 +25,7 @@ Plugin 'scrooloose/nerdcommenter'
 Plugin 'chemzqm/vim-jsx-improve'
 Plugin 'Valloric/MatchTagAlways'
 Plugin 'sbdchd/neoformat'
+Plugin 'frigoeu/psc-ide-vim'
 call vundle#end()
 
 filetype plugin indent on
